@@ -3,10 +3,10 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "StorageAccountName": {
-      "value": "pantestdrivetest"
+      "value": "attgsgdemostorage"
     },
     "FirewallDnsName": {
-      "value": "pan-fw"
+      "value": "prem-fw-1"
     },
     "WebServerDnsName": {
       "value": "pan-web"
